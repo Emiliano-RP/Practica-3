@@ -1,4 +1,4 @@
-# Nivel 3. Introducción a la IA
+# Nivel 3. Introducción a la IA.
 <center>
 
 ![Logo de Microsoft Azure](Imágenes/Microsoft_Azure.svg.png) ![Logo de IA Wizards](Imágenes/logocomunidad2.png)
